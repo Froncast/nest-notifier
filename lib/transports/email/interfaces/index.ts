@@ -1,0 +1,5 @@
+export * from './mailer-options.interface'
+export * from './template-adapter.interface'
+export * from './template-adapter-config.interface'
+export * from './mailer-transport-factory.interface'
+export * from './send-mail-options.interface'

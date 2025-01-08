@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/nest-cli",
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "assets": [
+      { "include": "**/templates/**/*.pug", "watchAssets": true },
+      { "include": "**/templates/**/*.hbs", "watchAssets": true },
+      { "include": "**/templates/**/*.json", "watchAssets": true }
+    ]
+  }
+}

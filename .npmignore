@@ -1,0 +1,13 @@
+docs
+lib
+tests
+.eslintrc.js
+.prettierrc
+jest.config.js
+package-lock.json
+renovate.json
+publish.sh
+tsconfig.json
+.idea
+nest-cli.json
+tsconfig.build.json
