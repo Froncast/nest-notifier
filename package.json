@@ -1,6 +1,6 @@
 {
   "name": "@alt-point/nest-notifier",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NestJS - a notifier module",
   "author": "Oleg Tretyakov <froncast@alt-point.ru>",
   "private": false,
